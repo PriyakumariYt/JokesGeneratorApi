@@ -29,21 +29,7 @@
 }
 .box {
   max-width: 500px;
-  /* background-image: linear-gradient(
-    to right top,
-    #c08923,
-    #c5812d,
-    #c87a36,
-    #ca7440,
-    #ca6e49,
-    #d0754c,
-    #d77b50,
-    #dd8253,
-    #ea9853,
-    #f3af54,
-    #f9c757,
-    #fbe05f
-  ); */
+ 
   background-image: linear-gradient(
       rgba(60, 82, 61, 0.315),
       rgba(90, 92, 61, 0.7)
@@ -57,7 +43,7 @@
   -moz-box-shadow: 1px 5px 31px 2px rgba(43, 47, 48, 0.78);
   box-shadow: 1px 5px 31px 2px rgba(15, 2, 2, 0.78);
   transition: 1s;
-  /* margin: 100px auto 20px; */
+  margin: 100px auto 20px;
   padding: 40px 30px 70px;
   border-radius: 10px;
 }
