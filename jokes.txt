@@ -1,0 +1,92 @@
+[
+  {
+    "joke": "A teacher asked her students to use the word \"beans\" in a sentence... \"My father grows beans,\" said one girl. \"My mother cooks beans,\" said a boy. A third student spoke up, \"We are all human beans.\""
+  },
+  {
+    "joke": "Do you think George Clooney has an iTunes playlist called Clooney Tunes?"
+  },
+  {
+    "joke": "What do you call two guys above a window? Curt 'n Rod"
+  },
+  {
+    "joke": "I just got a job helping a one arm typist do capital letters... Its shift work."
+  },
+  {
+    "joke": "What do you call a cow with three legs? Tri-tip."
+  },
+  {
+    "joke": "What do cows like on their hotdogs? MOOstard."
+  },
+  {
+    "joke": "What is the horror movie Quija rated? Quija-13"
+  },
+  {
+    "joke": "So I was feeling down the other day... My friend wanted to cheer me up, so he told me 10 jokes to make me feel better. Unfortunately, no pun in ten did."
+  },
+  {
+    "joke": "Two silk worms had a race. They ended up in a tie."
+  },
+  {
+    "joke": "What do you find in a cloud's shorts? Thunderpants!"
+  },
+  {
+    "joke": "You know what I hate about fashion designers? They are so clothes-minded."
+  },
+  {
+    "joke": "What did one wall say to the other wall? I`ll meet you at the corner."
+  },
+  {
+    "joke": "What do you call an elephant with a poor memory? A bold and innovative departure from the hackneyed stereotypes that all too often dominate the joke-telling industry."
+  },
+  {
+    "joke": "Where do toilets live? Porcel Lane."
+  },
+  {
+    "joke": "Why do ghosts carry tissues? Because they have BOOOOgers."
+  },
+  {
+    "joke": "Two dogs are going on a walk down the street They walk past a few parking meters and one dog says to the other, \"Hey, check it out! Pay toilets!\""
+  },
+  {
+    "joke": "What did the 0 say to the 8? Let's make a snowman!"
+  },
+  {
+    "joke": "What did one dry erase marker say to the other? I'm bored!"
+  },
+  {
+    "joke": "I bought a duckdoo yesterday! 'What's a duckdoo?' \"quack, quack\""
+  },
+  {
+    "joke": "I had to clean out my spice rack and found everything was too old and had to be thrown out. What a waste of thyme."
+  },
+  {
+    "joke": "A skelleton goes to the bar and says \"Can I have a pint and a mop...\""
+  },
+  {
+    "joke": "When German children play a game involving touching each other with bread... it's called gluten tag."
+  },
+  {
+    "joke": "Why was the healthy potato not allowed on the plane? He was on the \"No Fry\" list."
+  },
+  {
+    "joke": "Wanna hear a construction joke? I'm working on it."
+  },
+  {
+    "joke": "What do you call a pachyderm that sings jazz? Elephants Gerald"
+  },
+  {
+    "joke": "Why was the tank top more gangster than the tube top? The tube top was strapless."
+  },
+  {
+    "joke": "My laptop is so dumb. Every time it says \"Your password is incorrect\", I type in: \"incorrect\" and the silly thing still tells me the same thing."
+  },
+  {
+    "joke": "Two silk worms had a race. They ended up in a tie."
+  },
+  {
+    "joke": "Why would no one listen to the percussion section? Because they couldn't drum up enough support."
+  },
+  {
+    "joke": "What instrument does God play? He plays the cello. As it says in scripture: \"Our God is a cellist God.\""
+  }
+]

@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.container {
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  margin: auto;
+  justify-content: center;
+  background-image: linear-gradient(
+    to right top,
+    #accb3b,
+    #b3c538,
+    #babe36,
+    #bfb836,
+    #c4b237,
+    #bfac37,
+    #b9a737,
+    #b4a137,
+    #a59a35,
+    #979234,
+    #8a8b33,
+    #7d8332
+  );
+}
+.box {
+  max-width: 500px;
+  /* background-image: linear-gradient(
+    to right top,
+    #c08923,
+    #c5812d,
+    #c87a36,
+    #ca7440,
+    #ca6e49,
+    #d0754c,
+    #d77b50,
+    #dd8253,
+    #ea9853,
+    #f3af54,
+    #f9c757,
+    #fbe05f
+  ); */
+  background-image: linear-gradient(
+      rgba(60, 82, 61, 0.315),
+      rgba(90, 92, 61, 0.7)
+    ),
+    url(https://i.pinimg.com/736x/e0/5f/40/e05f4034318025f2921e338b67abcc5a.jpg);
+  background-position: center;
+  background-size: cover;
+
+  border: 0px solid rgb(127, 133, 127);
+  -webkit-box-shadow: 1px 5px 31px 2px rgba(36, 20, 27, 0.78);
+  -moz-box-shadow: 1px 5px 31px 2px rgba(43, 47, 48, 0.78);
+  box-shadow: 1px 5px 31px 2px rgba(15, 2, 2, 0.78);
+  transition: 1s;
+  /* margin: 100px auto 20px; */
+  padding: 40px 30px 70px;
+  border-radius: 10px;
+}
+.jokes {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 400;
+  color: white;
+}
+.box .fa-solid {
+  color: rgb(26, 21, 21);
+  font-size: 25px;
+}
+.btn {
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  width: 30%;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin: 20px auto;
+  font-weight: bold;
+  color: white;
+  background-image: linear-gradient(
+    to right top,
+    #accb3b,
+    #b8ca42,
+    #c3c94a,
+    #cdc853,
+    #d6c75c,
+    #d3c45e,
+    #d0c061,
+    #cdbd63,
+    #bfb65f,
+    #b2ae5c,
+    #a5a758,
+    #999f55
+  );
+  -webkit-box-shadow: 1px 5px 31px 2px rgba(41, 92, 41, 0.78);
+  -moz-box-shadow: 1px 5px 31px 2px rgba(41, 92, 41, 0.78);
+  box-shadow: 1px 5px 31px 2px rgba(41, 92, 41, 0.78);
+  transition: 1s;
+}
+.btn:hover {
+  background: rgb(104, 197, 209);
+  color: black;
+  transform: scale(1.08);
+}
+hr {
+  background: #c5b912;
+  height: 2px;
+  border: 0;
+  margin: 10px auto;
+  width: 50%;
+}
+@media screen and (max-width: 600px) {
+  .box {
+    max-width: 100%;
+    margin: 50px auto 20px;
+    padding: 20px;
+  }
+
+  .btn {
+    width: 50%;
+  }
+}
